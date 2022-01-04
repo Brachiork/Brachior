@@ -15,7 +15,7 @@
          - 📫 How to reach me: <a href="https://dsc.gg/zeal">ブラキーク#5087</a> on Discord -
          <br/>
          <p align="center">                     
-             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brachior&theme=radical&hide_border=true" />
+             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brachiork&theme=radical&hide_border=true" />
          </p>  
       </td>
    </tr>
